@@ -2,7 +2,9 @@
 
 List of interesting ressources for designers, web developpers ... 
 
-## Colors
+___
+
+### Colors
 
 - [Open Color ](https://yeun.github.io/open-color/)
 - [Colors - A nicer color palette for the web](http://clrs.cc/)
@@ -11,12 +13,16 @@ List of interesting ressources for designers, web developpers ...
 - [Picular - Google, but for colors](https://picular.co/)
 - [Color Hue 2.0](https://webkul.github.io/coolhue/)
 
-## Fonts
+___
+
+### Fonts
 
 - [20 Best Google Web fonts](https://www.awwwards.com/20-best-web-fonts-from-google-web-fonts-and-font-face.html)
 - [Color fonts - Get ready for the revolution](https://www.colorfonts.wtf/)
 
-## CSS
+___
+
+### CSS
 - [CSS Gradient Generator](https://www.css-gradient.com/)
 - [uiGradients - Beautiful colored gradients](https://uigradients.com/)
 - [CSS Gradient](https://cssgradient.io/)
@@ -24,10 +30,14 @@ List of interesting ressources for designers, web developpers ...
 - [Hover.css - A collection of CSS3 powered hover effects](http://ianlunn.github.io/Hover/)
 - [Milligram - A minimalist CSS framework.](http://milligram.io/)
 
-## HTML
+___
+
+### HTML
 - [Free HTML landing page templates for startups](https://cruip.com/)
 
-## Design guidelines
+___
+
+### Design guidelines
 
 - [Photon Design System (Firefox) ](http://design.firefox.com/photon/welcome.html)
 - [2017 Design Trends Guide on Behance](https://www.behance.net/gallery/47810259/2017-Design-Trends-Guide?utm_content=buffer32ccb)
